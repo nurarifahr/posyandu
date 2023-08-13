@@ -1,0 +1,146 @@
+       body {
+      background-image: url(../img/background.png);
+    }
+
+    .container1{
+      width: 1050px;
+      height: 500px;
+      background-color: white;
+      margin-top: 60px;
+      margin-left: 165px;
+      border-radius: 20px;
+      border: 3px solid salmon;
+    }
+
+    h1{
+      text-align: center;
+      font-family: "arial";
+      margin-top: 20px;
+    }
+ /*   hr{
+      background-color: #2F4F4F;
+      width: 500px;
+      height: 3px;
+    }
+*/
+    .row{
+      margin-top: 5px;
+      margin-left: 55px;
+    }
+
+    .btn-danger{
+      margin-left: 8px;
+      margin-top: 15px;
+    }
+    .btn-danger a{
+      color:white;
+      text-decoration: none;
+    }
+    .btn-success{
+      margin-top: 15px;
+      margin-left: 535px;
+    } 
+
+    .mb-3{
+      margin-right: 20px;
+    }
+
+
+/*STYLE TAMBAH IBU*/
+    .containeribu{
+      width: 1000px;
+      height: 500px;
+      background-color: white;
+      margin-top: 60px;
+      margin-left: 185px;
+      border-radius: 20px;
+      border: 3px solid salmon;
+    }
+
+    .nomertelpibu{
+      margin-top: -1px;
+    }
+
+    .ubahdata{
+      margin-left: 565px;
+    }
+
+/*STYLE TAMBAH ANAK*/
+    .containeranak{
+      width: 1000px;
+      height: 520px;
+      background-color: white;
+      margin-top: 60px;
+      margin-left: 195px;
+      border-radius: 20px;
+      border: 3px solid salmon;
+    }
+
+    .tgllahir{
+      margin-top: -3px;
+    }
+
+/*STYLE TAMBAH VAKSIN*/
+    .containervaksin{
+      width: 800px;
+      height: 200px;
+      background-color: white;
+      margin-left: 380px;
+      border-radius: 20px;
+      border: 3px solid salmon;
+      position: absolute;
+      margin-top: 60px;
+      font-family: arial;
+    }
+
+    .tombolvaksin{
+      margin-top: -38px;
+    }
+
+    .namavaksin{
+      margin-top: 10px;
+    }
+
+/*STYLE TAMBAH PETUGAS*/
+    .containerpetugas{
+      width: 800px;
+      height: 300px;
+      background-color: white;
+      margin-left: 380px;
+      border-radius: 20px;
+      border: 3px solid salmon;
+      position: absolute;
+      margin-top: 60px;
+      font-family: arial;
+    }
+
+    .tambahtugas{
+      margin-top: -39px;
+      margin-left: 550px;
+    }
+
+    .kembalitugas{
+      margin-top: 30px;
+    }
+
+/*STYLE TAMBAH TIMBANG*/
+    .containertimbang{
+      width: 1050px;
+      height: 527px;
+      background-color: white;
+      margin-top: 60px;
+      margin-left: 185px;
+      border-radius: 20px;
+      border: 3px solid salmon;
+    }
+
+/*STYLE TAMBAH IMUN*/
+    .containerimunisasi{
+      width: 1050px;
+      height: 530px;
+      background-color: white;
+      margin-top: 60px;
+      margin-left: 165px;
+      border-radius: 20px;
+      border: 3px solid salmon;
+    }

@@ -1,0 +1,26 @@
+ .containertentang{
+ 	height: 405px;
+ 	width: 550px;
+ 	border: 3px solid white;
+ 	border-radius: 10px;
+ 	background-color: #2F4F4F;
+ 	margin-left: 750px;
+ 	margin-top: -410px;
+ 	overflow: auto;
+ }
+
+ img{
+	height: 400px;
+	width: 400px;
+	margin-left: 300px;
+	margin-top: 50px;
+}
+
+p, h2{
+	color:white;
+	text-align: justify;
+	font-family: arial;
+	padding: 20px;
+
+}
+
